@@ -7,6 +7,12 @@
 [Pp]ackages/
 Assets/AssetStoreTools*
 
+# PlayMaker
+# * steht für beliebige Dateiendung: ob .meta oder anderes
+Assets/Gizmos*
+Assets/PlayMaker*
+Assets/Plugins*
+
 # Visual Studio cache directory
 .vs/
 
@@ -63,6 +69,7 @@ ehthumbs_vista.db
 # Windows shortcuts
 *.lnk
 
+
 # mac
 
 # General
@@ -92,7 +99,3 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
-
-
-
-
